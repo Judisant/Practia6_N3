@@ -1,0 +1,34 @@
+body {
+    background-color: #af78c9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0b0c0d;
+    font-size: 12px;
+    }
+    .group {
+    margin: auto;
+    width: 250px;
+    border: 2px solid #81379e;
+    text-align: left;
+    padding-left: 25px; 
+    padding-right: 25px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: #d5d8de;
+    }
+.container>label {
+    margin: auto;
+}
+label,input{
+    width: 100%;
+    margin: 5px 0 5px 0;
+}
+.form-btn {
+    margin-top: 20px;
+    width: 50%;
+    padding: 5px;
+    background-color: #81379e;
+    font-weight: bold;
+    color: white;
+}
+
